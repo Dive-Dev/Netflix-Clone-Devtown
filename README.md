@@ -1,5 +1,7 @@
 # Devtown - Netflix Clone using HTML, CSS & JavaScript | September 2023
 ![image](https://github.com/user-attachments/assets/c8d2835f-7ba7-4154-bf24-eaabfa6668a1)
+
+
 Connect with Devtown:
 - **Website:** [devtown.in](https://www.devtown.in/)
 - **LinkedIn:** [devtown-in](https://www.linkedin.com/company/devtown-in)
